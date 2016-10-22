@@ -7,7 +7,7 @@ http://doc.photonengine.com/en-us/pun/current/tutorials/pun-basics-tutorial/intr
 This is good tutorial to learn
 
 1. Setup PUN application ID and Project setup with asset store
-1. Lobby and Room with Launcer Scene
+1. Lobby and Room with Launcher Scene
 1. Master Client and Scene Synchronizaton
 1. Networked Instantiation and Resouces folder 
 1. PhotonView and Auto-Synchronization of Transform/Animation
@@ -15,7 +15,7 @@ This is good tutorial to learn
 1. PUN Callbacks when new players join
 
 But, As of today(29Sep2016), the PUN tutorial has some issues like using deprecated Unity api and missing/wrong instructions.
-I mangaged to find the solution and finally it works now. and I publish this here.
+I managed to find the solution and finally it works now. and I publish this here.
 
 The issues I found are  
 ## Player re-position
@@ -33,6 +33,6 @@ Unity 5.4.0f3
 Pun Package v1.76
 
 #How to use
-THis project doesnot contain the PUN unity package.
+This project doesnot contain the PUN unity package.
 After you get this project you need to import the PUN unity pakcage by downloading from Unity Asset Store
 
